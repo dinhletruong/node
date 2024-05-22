@@ -1,0 +1,8 @@
+cài Nodejs + Pm2
+
+https://pm2.keymetrics.io/
+
+
+- sau đó gõ Pm2 start index.js
+
+URL:   IP:2712?account=stk_can_check
